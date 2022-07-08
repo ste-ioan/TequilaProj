@@ -9,3 +9,5 @@ agave type, agave region, distillation, distillery (https://tastetequila.com/201
 
 one hot encoding for string variables
 (check online bottles of tequila w missing values)
+
+alcohol into bins: <40, 40 to 45, 45.5 to 50, >50

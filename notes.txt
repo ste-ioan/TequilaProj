@@ -1,0 +1,11 @@
+**appunti**
+
+homogenize [tahona roller mill and roller mill tahona in EXTRACTION]
+
+figure out what to do w aging and fermentation
+
+useless features:
+agave type, agave region, distillation, distillery (https://tastetequila.com/2018/the-worlds-highest-rated-tequila-distilleries/)
+
+one hot encoding for string variables
+(check online bottles of tequila w missing values)
